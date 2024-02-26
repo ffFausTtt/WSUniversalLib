@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUniversalLib", "WSUniversalLib\WSUniversalLib.csproj", "{6AE18CF8-46E8-4C39-A8EF-E6EF5148817E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{BB727219-E2C1-4520-9F37-054CE52FA52B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{305B4173-65AE-4142-9A17-EF35ED88F181}"
+	ProjectSection(SolutionItems) = preProject
+		testing template.docx = testing template.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE18CF8-46E8-4C39-A8EF-E6EF5148817E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE18CF8-46E8-4C39-A8EF-E6EF5148817E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE18CF8-46E8-4C39-A8EF-E6EF5148817E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE18CF8-46E8-4C39-A8EF-E6EF5148817E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB727219-E2C1-4520-9F37-054CE52FA52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB727219-E2C1-4520-9F37-054CE52FA52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB727219-E2C1-4520-9F37-054CE52FA52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB727219-E2C1-4520-9F37-054CE52FA52B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1081E58C-78B5-412E-8DBB-4C5C3213A048}
+	EndGlobalSection
+EndGlobal
